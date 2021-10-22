@@ -1,4 +1,9 @@
 # branch-pull-group5
-Branch-Pull-Merge-Group5IT115
+This project is for the Branch-Pull-Merge-Repeat Assignment of our class IT115.
 
-Zhongyuan Huang
+Group 5:
+Zhongyuan Huang,
+Daniel Gebreselassie,
+Intisar Osman,
+Tegen Abebu,
+Helene Liobard.
